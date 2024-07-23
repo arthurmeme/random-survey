@@ -1,0 +1,6 @@
+const urls = [
+    'https://forms.gle/Lbw4NRRXoL8qfLeH8',
+    'https://forms.gle/JDQXAVGkBuWuSgiA9',
+    'https://forms.gle/GJnX5cD4rZzHxFBAA',
+    'https://forms.gle/YTeavTbnWce9BDbW7'
+];
